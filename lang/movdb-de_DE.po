@@ -1,0 +1,700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Movie Database v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-08 10:54+0000\n"
+"PO-Revision-Date: 2019-11-08 10:55+0000\n"
+"Last-Translator: Bert Kößler <bert@heimkino-praxis.com>\n"
+"Language-Team: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: de-DE\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: reservations-page.php:34 movie-database.php:254 movie-database.php:254
+msgid "Wishlist"
+msgstr "Wunschliste"
+
+#: reservations-page.php:34 screenings-page.php:34 sources-page.php:34 
+#: movies-page.php:30
+msgid "Add"
+msgstr "Erstellen"
+
+#: reservations-page.php:39 screenings-page.php:39 sources-page.php:39 
+#: movies-page.php:35
+msgid "All"
+msgstr "Alle"
+
+#: reservations-page.php:46
+msgid "high priority"
+msgstr "hohe Priorität"
+
+#: reservations-page.php:53
+msgid "normal priority"
+msgstr "normale Priorität"
+
+#: reservations-page.php:60
+msgid "low priority"
+msgstr "niedrige Priorität"
+
+#: reservations-page.php:66
+msgid "Search wishes"
+msgstr "Wunschliste durchsuchen"
+
+#: reservations-page.php:92
+msgid "Add New Wish"
+msgstr "Neuen Wunsch hinzufügen"
+
+#: reservations-page.php:121
+msgid "Edit Wish"
+msgstr "Wunsch bearbeiten"
+
+#: reservations-page.php:161
+msgid "Wish"
+msgstr "Wunsch"
+
+#: reservations-page.php:164 screenings-page.php:203 sources-page.php:213 
+#: movies-page.php:157
+msgid "Movie"
+msgstr "Film"
+
+#: reservations-page.php:168 class/MovDB_Reservations_List_Table.class.php:212
+msgid "Possible source"
+msgstr "Bezugsquelle"
+
+#: reservations-page.php:172 class/MovDB_Reservations_List_Table.class.php:213
+msgid "Priority"
+msgstr "Priorität"
+
+#: reservations-page.php:174 movie-database.php:372
+msgid "high"
+msgstr "hoch"
+
+#: reservations-page.php:175 movie-database.php:376
+msgid "normal"
+msgstr "normal"
+
+#: reservations-page.php:176 movie-database.php:374
+msgid "low"
+msgstr "niedrig"
+
+#: reservations-page.php:183 screenings-page.php:274 sources-page.php:276 
+#: movies-page.php:210
+msgid "Save"
+msgstr "Speichern"
+
+#: views-page.php:36
+msgid "Best Movies"
+msgstr "Beste Filme"
+
+#: views-page.php:37
+msgid "Not Yet Seen"
+msgstr "Ungesehen"
+
+#: views-page.php:38
+msgid "Low Quality Sources"
+msgstr "Schlechte Qualität"
+
+#: main-page.php:7 movie-database.php:103 movie-database.php:248 
+#: movie-database.php:248 class/MovDB_Widget.class.php:9
+msgid "Movie Database"
+msgstr "Filmdatenbank"
+
+#: main-page.php:55
+msgid "Add Screening"
+msgstr "Vorstellung hinzufügen"
+
+#: main-page.php:74
+msgid "Seen but not yet rated"
+msgstr "Gesehen aber nicht bewertet"
+
+#: main-page.php:93
+msgid "Statistics"
+msgstr "Statistik"
+
+#: main-page.php:112
+msgid "Latest Screenings"
+msgstr "Letzte Vorstellungen"
+
+#: main-page.php:131
+msgid "Proposals"
+msgstr "Vorschläge"
+
+#: movie-database.php:79
+msgid "https://en.wikipedia.org/wiki/"
+msgstr "https://de.wikipedia.org/wiki/"
+
+#: movie-database.php:80
+msgid "Copy filename:"
+msgstr "Dateiname kopieren:"
+
+#: movie-database.php:238
+msgid "buy"
+msgstr "kaufen"
+
+#: movie-database.php:250
+msgid "Survey"
+msgstr "Übersicht"
+
+#: movie-database.php:251 movie-database.php:257 movie-database.php:257 
+#: movies-page.php:30 class/MovDB_Statistics.class.php:182
+msgid "Movies"
+msgstr "Filme"
+
+#: movie-database.php:252 screenings-page.php:34 
+#: class/MovDB_Statistics.class.php:196 
+#: class/MovDB_Reservations_List_Table.class.php:123 
+#: class/MovDB_DeletableSources_List_Table.class.php:140 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:108 
+#: class/MovDB_Movies_List_Table.class.php:114 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:125 
+#: class/MovDB_Screenings_List_Table.class.php:125 
+#: class/MovDB_Sources_List_Table.class.php:129
+msgid "Screenings"
+msgstr "Vorstellungen"
+
+#: movie-database.php:253 sources-page.php:34 
+#: class/MovDB_Statistics.class.php:173 class/MovDB_Statistics.class.php:210 
+#: class/MovDB_Reservations_List_Table.class.php:130 
+#: class/MovDB_DeletableSources_List_Table.class.php:147 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:115 
+#: class/MovDB_Movies_List_Table.class.php:121 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:132 
+#: class/MovDB_Screenings_List_Table.class.php:132 
+#: class/MovDB_Sources_List_Table.class.php:136
+msgid "Sources"
+msgstr "Quellen"
+
+#: movie-database.php:255
+msgid "Views"
+msgstr "Ansichten"
+
+#: movie-database.php:321
+msgid "and"
+msgstr "und"
+
+#: movie-database.php:355 sources-page.php:46 sources-page.php:219
+msgid "UHD"
+msgstr "UHD"
+
+#: movie-database.php:357 sources-page.php:53 sources-page.php:220
+msgid "Blu-ray"
+msgstr "Blu-ray"
+
+#: movie-database.php:359 sources-page.php:60 sources-page.php:221
+msgid "DVD"
+msgstr "DVD"
+
+#: movie-database.php:361 sources-page.php:222
+msgid "File"
+msgstr "Datei"
+
+#: screenings-page.php:46
+msgid "Seen alone"
+msgstr "Allein gesehen"
+
+#: screenings-page.php:53
+msgid "Seen with guests"
+msgstr "Mit Gästen gesehen"
+
+#: screenings-page.php:60
+msgid "Seen at home"
+msgstr "Zuhause gesehen"
+
+#: screenings-page.php:67
+msgid "Seen in cinemas"
+msgstr "In Kinos gesehen"
+
+#: screenings-page.php:73
+msgid "Search screenings"
+msgstr "Vorstellungen durchsuchen"
+
+#: screenings-page.php:99
+msgid "Add New Screening"
+msgstr "Neue Vorstellung hinzufügen"
+
+#: screenings-page.php:128
+msgid "Edit Screening"
+msgstr "Vorstellung bearbeiten"
+
+#: screenings-page.php:200
+msgid "Screening"
+msgstr "Vorstellung"
+
+#: screenings-page.php:207 class/MovDB_Screenings_List_Table.class.php:219
+msgid "Date"
+msgstr "Datum"
+
+#: screenings-page.php:211 class/MovDB_Screenings_List_Table.class.php:220
+msgid "Guests"
+msgstr "Gäste"
+
+#: screenings-page.php:215 class/MovDB_Screenings_List_Table.class.php:221
+msgid "Cinema"
+msgstr "Kino"
+
+#: screenings-page.php:219 sources-page.php:210
+msgid "Source"
+msgstr "Quelle"
+
+#: screenings-page.php:221
+msgid "unknown"
+msgstr "unbekannt"
+
+#: screenings-page.php:234 screenings-page.php:245
+msgid "borrowed"
+msgstr "ausgeliehen"
+
+#: screenings-page.php:235 screenings-page.php:246
+msgid "streaming"
+msgstr "Streaming"
+
+#: screenings-page.php:241
+msgid "no longer available source"
+msgstr "nicht mehr verfügbare Quelle"
+
+#: screenings-page.php:247
+msgid "find automatically"
+msgstr "automatisch finden"
+
+#: screenings-page.php:255 sources-page.php:74 sources-page.php:243 
+#: class/MovDB_Widget.class.php:183 
+#: class/MovDB_DeletableSources_List_Table.class.php:330 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:267 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:293 
+#: class/MovDB_Sources_List_Table.class.php:310
+msgid "3D"
+msgstr "3D"
+
+#: screenings-page.php:260 sources-page.php:262
+msgid "Options"
+msgstr "Optionen"
+
+#: screenings-page.php:264 sources-page.php:266
+msgid "Show on website"
+msgstr "Auf der Website anzeigen"
+
+#: screenings-page.php:268 sources-page.php:270
+msgid "Remove movie from wishlist"
+msgstr "Film von der Wunschliste entfernen"
+
+#: sources-page.php:67
+msgid "Files"
+msgstr "Dateien"
+
+#: sources-page.php:81 sources-page.php:248 
+#: class/MovDB_Statistics.class.php:175
+msgid "appropriate for audience"
+msgstr "geeignet für Publikum"
+
+#: sources-page.php:87
+msgid "Search sources"
+msgstr "Quellen durchsuchen"
+
+#: sources-page.php:113
+msgid "Add New Source"
+msgstr "Neue Quelle hinzufügen"
+
+#: sources-page.php:142
+msgid "Edit Source"
+msgstr "Quelle bearbeiten"
+
+#: sources-page.php:217 class/MovDB_DeletableSources_List_Table.class.php:327 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:266 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:292 
+#: class/MovDB_Sources_List_Table.class.php:307
+msgid "Type"
+msgstr "Typ"
+
+#: sources-page.php:225
+msgid ""
+"<strong>Attention!</strong> The possession of movies in the form of files is "
+"illegal in many cases.<br />Legal files might include <em>digital copies</em>"
+", as they are available with many Blu-ray discs."
+msgstr ""
+"<strong>Achtung!</strong> Der Besitz von Filmen in Form von Dateien ist in "
+"vielen Fällen illegal.<br />Legale Dateien könnten zum Beispiel <em>Digital "
+"Copies</em> sein, wie sie mit vielen Blu-ray Discs erhältlich sind."
+
+#: sources-page.php:231 movies-page.php:198 
+#: class/MovDB_DeletableSources_List_Table.class.php:326 
+#: class/MovDB_Movies_List_Table.class.php:203 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:291
+msgid "Rating"
+msgstr "Bewertung"
+
+#: sources-page.php:234
+msgid "Audio quality"
+msgstr "Tonqualität"
+
+#: sources-page.php:238
+msgid "Video quality"
+msgstr "Bildqualität"
+
+#: sources-page.php:252
+msgid "inappropriate"
+msgstr "ungeeignet"
+
+#: sources-page.php:256
+msgid "not tested"
+msgstr "nicht getestet"
+
+#: movies-page.php:42
+msgid "With source"
+msgstr "Mit Quelle"
+
+#: movies-page.php:49
+msgid "Unseen"
+msgstr "Ungesehen"
+
+#: movies-page.php:56
+msgid "Not yet rated"
+msgstr "Unbewertet"
+
+#: movies-page.php:62
+msgid "Search movies"
+msgstr "Filme durchsuchen"
+
+#: movies-page.php:88
+msgid "Add New Movie"
+msgstr "Neuen Film hinzufügen"
+
+#: movies-page.php:117
+msgid "Edit Movie"
+msgstr "Film bearbeiten"
+
+#: movies-page.php:160 class/MovDB_Reservations_List_Table.class.php:211 
+#: class/MovDB_DeletableSources_List_Table.class.php:325 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:265 
+#: class/MovDB_Movies_List_Table.class.php:199 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:290 
+#: class/MovDB_Screenings_List_Table.class.php:218 
+#: class/MovDB_Sources_List_Table.class.php:306
+msgid "Title"
+msgstr "Titel"
+
+#: movies-page.php:164
+msgid "Original title"
+msgstr "Originaltitel"
+
+#: movies-page.php:168
+msgid "Short title"
+msgstr "Kurztitel"
+
+#: movies-page.php:172
+msgid "Version"
+msgstr "Version"
+
+#: movies-page.php:176 class/MovDB_Movies_List_Table.class.php:202
+msgid "Year"
+msgstr "Jahr"
+
+#: movies-page.php:182 movies-page.php:185 class/MovDB_Statistics.class.php:48
+msgid "Series"
+msgstr "Mehrteiler"
+
+#: movies-page.php:189
+msgid "Part"
+msgstr "Teil"
+
+#: movies-page.php:195
+msgid "Personal data"
+msgstr "Persönliche Daten"
+
+#: movies-page.php:202
+msgid "approx. seen"
+msgstr "ca. gesehen"
+
+#: movies-page.php:204
+msgid "prior to the acquisition in this database"
+msgstr "vor der Erfassung in dieser Datenbank"
+
+#: class/MovDB_Widget.class.php:12
+msgid "Latest screenings"
+msgstr "Zuletzt gesehen"
+
+#: class/MovDB_Widget.class.php:13
+msgid "Newest sources"
+msgstr "Neueste Quellen"
+
+#: class/MovDB_Widget.class.php:68
+msgid "List:"
+msgstr "Liste:"
+
+#: class/MovDB_Widget.class.php:80
+msgid "Movie count:"
+msgstr "Anzahl Filme:"
+
+#: class/MovDB_Widget.class.php:85
+msgid "Show sources of type <em>file</em>"
+msgstr "Quellen vom Typ <em>Datei</em> anzeigen"
+
+#: class/MovDB_Widget.class.php:87
+msgid ""
+"<strong>Attention!</strong> The possession of movies in the form of files is "
+"illegal in many cases.<br />Activate this checkbox only if you own legal "
+"files, as they are available with many Blu-ray discs."
+msgstr ""
+"<strong>Achtung!</strong> Der Besitz von Filmen in Form von Dateien ist in "
+"vielen Fällen illegal. Aktiviere diese Checkbox nur, wenn Du ausschließlich "
+"legale Dateien besitzt, wie sie zum Beispiel als <em>Digital Copy</em> mit "
+"vielen Blu-ray Discs erhältlich sind."
+
+#: class/MovDB_Widget.class.php:135 
+#: class/MovDB_LastScreenings_View.class.php:45 
+#: class/MovDB_SeenUnrated_View.class.php:34
+msgid "with"
+msgstr "mit"
+
+#: class/MovDB_Widget.class.php:138 
+#: class/MovDB_LastScreenings_View.class.php:49 
+#: class/MovDB_SeenUnrated_View.class.php:38
+msgid "at"
+msgstr "im"
+
+#: class/MovDB_Statistics.class.php:46
+msgid "Movies total"
+msgstr "Filme gesamt"
+
+#: class/MovDB_Statistics.class.php:47
+msgid "Eldest movie"
+msgstr "ältester Film"
+
+#: class/MovDB_Statistics.class.php:47
+#, php-format
+msgid "from %1$s"
+msgstr "aus dem Jahr %1$s"
+
+#: class/MovDB_Statistics.class.php:48
+#, php-format
+msgid "%1$s total (%2$s first, %3$s second and %4$s third parts)"
+msgstr "%1$s gesamt (%2$s erste, %3$s zweite und %4$s dritte Teile)"
+
+#: class/MovDB_Statistics.class.php:126
+msgid "Screenings total"
+msgstr "Vorstellungen gesamt"
+
+#: class/MovDB_Statistics.class.php:127
+msgid "Screenings per day"
+msgstr "Vorstellungen pro Tag"
+
+#: class/MovDB_Statistics.class.php:128
+msgid "Time per day"
+msgstr "Zeit pro Tag"
+
+#: class/MovDB_Statistics.class.php:128
+#, php-format
+msgid "%1$s minutes (at %2$s minutes per movie)"
+msgstr "%1$s Minuten (bei %2$s Minuten pro Film)"
+
+#: class/MovDB_Statistics.class.php:130
+msgid "Screenings alone"
+msgstr "Vorstellungen allein"
+
+#: class/MovDB_Statistics.class.php:131
+msgid "with guests"
+msgstr "mit Gästen"
+
+#: class/MovDB_Statistics.class.php:132
+msgid "Guests total"
+msgstr "Gäste gesamt"
+
+#: class/MovDB_Statistics.class.php:133
+msgid "various guests"
+msgstr "verschiedene Gäste"
+
+#: class/MovDB_Statistics.class.php:134
+msgid "most frequent quest"
+msgstr "häufigster Gast"
+
+#: class/MovDB_Statistics.class.php:136
+msgid "Screenings at home"
+msgstr "Vorstellungen zuhause"
+
+#: class/MovDB_Statistics.class.php:137
+msgid "in other cinemas"
+msgstr "in anderen Kinos"
+
+#: class/MovDB_Statistics.class.php:138
+msgid "various cinemas"
+msgstr "verschiedene Kinos"
+
+#: class/MovDB_Statistics.class.php:139
+msgid "most frequent cinema"
+msgstr "meistbesuchtes Kino"
+
+#: class/MovDB_Statistics.class.php:173
+#, php-format
+msgid "%1$s total (%2$s UHDs, %3$s Blu-rays, %4$s DVDs and %5$s as file)"
+msgstr "%1$s gesamt (%2$s UHDs, %3$s Blu-rays, %4$s DVDs und %5$s als Datei)"
+
+#: class/MovDB_Statistics.class.php:174
+msgid "3D sources"
+msgstr "3D-Quellen"
+
+#: class/MovDB_Reservations_List_Table.class.php:105 
+#: class/MovDB_DeletableSources_List_Table.class.php:122 
+#: class/MovDB_Movies_List_Table.class.php:108 
+#: class/MovDB_Screenings_List_Table.class.php:107 
+#: class/MovDB_Sources_List_Table.class.php:111
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: class/MovDB_Reservations_List_Table.class.php:111 
+#: class/MovDB_DeletableSources_List_Table.class.php:128 
+#: class/MovDB_Screenings_List_Table.class.php:113 
+#: class/MovDB_Sources_List_Table.class.php:117
+msgid "Delete"
+msgstr "Löschen"
+
+#: class/MovDB_Reservations_List_Table.class.php:117 
+#: class/MovDB_DeletableSources_List_Table.class.php:134 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:102 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:119 
+#: class/MovDB_Screenings_List_Table.class.php:119 
+#: class/MovDB_Sources_List_Table.class.php:123
+msgid "Edit movie"
+msgstr "Film bearbeiten"
+
+#: class/MovDB_Reservations_List_Table.class.php:258 
+#: class/MovDB_DeletableSources_List_Table.class.php:378 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:312 
+#: class/MovDB_Movies_List_Table.class.php:250 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:338 
+#: class/MovDB_Screenings_List_Table.class.php:267 
+#: class/MovDB_Sources_List_Table.class.php:357
+msgid "Show screenings"
+msgstr "Vorstellungen anzeigen"
+
+#: class/MovDB_Reservations_List_Table.class.php:259 
+#: class/MovDB_DeletableSources_List_Table.class.php:379 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:313 
+#: class/MovDB_Movies_List_Table.class.php:251 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:339 
+#: class/MovDB_Screenings_List_Table.class.php:268 
+#: class/MovDB_Sources_List_Table.class.php:358
+msgid "Show sources"
+msgstr "Quellen anzeigen"
+
+#: class/MovDB_LastScreenings_View.class.php:12
+msgid "No screenings found."
+msgstr "Keine Vorstellungen gefunden."
+
+#: class/MovDB_LastScreenings_View.class.php:37 
+#: class/MovDB_Recommendations_View.class.php:27
+msgid "rate"
+msgstr "bewerten"
+
+#: class/MovDB_LastScreenings_View.class.php:41 
+#: class/MovDB_SeenUnrated_View.class.php:30 
+#: class/MovDB_Recommendations_View.class.php:31
+msgid "complete data"
+msgstr "Daten vervollständigen"
+
+#: class/MovDB_DeletableSources_List_Table.class.php:55
+msgid "Quality threshold"
+msgstr "Qualität Schwellenwert"
+
+#: class/MovDB_DeletableSources_List_Table.class.php:281 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:221 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:246 
+#: class/MovDB_Sources_List_Table.class.php:262
+msgid "yes"
+msgstr "ja"
+
+#: class/MovDB_DeletableSources_List_Table.class.php:283 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:223 
+#: class/MovDB_SuggestionsBest_List_Table.class.php:248 
+#: class/MovDB_Sources_List_Table.class.php:264
+msgid "no"
+msgstr "nein"
+
+#: class/MovDB_DeletableSources_List_Table.class.php:328 
+#: class/MovDB_Sources_List_Table.class.php:308
+msgid "Sound quality"
+msgstr "Tonqualität"
+
+#: class/MovDB_DeletableSources_List_Table.class.php:329 
+#: class/MovDB_Sources_List_Table.class.php:309
+msgid "Image quality"
+msgstr "Bildqualität"
+
+#: class/MovDB_DeletableSources_List_Table.class.php:331 
+#: class/MovDB_SuggestionsNotSeen_List_Table.class.php:268 
+#: class/MovDB_Sources_List_Table.class.php:311
+msgid "screenable"
+msgstr "vorführbar"
+
+#: class/MovDB_SeenUnrated_View.class.php:12
+msgid "All seen movies have already been rated."
+msgstr "Alle gesehenen Filme wurden bereits bewertet"
+
+#: class/MovDB_SeenUnrated_View.class.php:42
+msgid "rate movie"
+msgstr "Film bewerten"
+
+#: class/MovDB_SeenUnrated_View.class.php:46
+msgid "rate source"
+msgstr "Quelle bewerten"
+
+#: class/MovDB_View.class.php:14
+msgid "No results available."
+msgstr "Keine Ergebnisse verfügbar."
+
+#: class/MovDB_Movies_List_Table.class.php:200
+msgid "Original Title"
+msgstr "Originaltitel"
+
+#: class/MovDB_Movies_List_Table.class.php:201
+msgid "Series / Part"
+msgstr "Serie / Teil"
+
+#: class/MovDB_SuggestionsBest_List_Table.class.php:55
+msgid "Rating threshold"
+msgstr "Bewertung Schwellenwert"
+
+#: class/MovDB_Recommendations_View.class.php:12
+msgid "No suggestions available."
+msgstr "Keine Vorschläge verfügbar."
+
+#: class/MovDB_Recommendations_View.class.php:34
+msgid "x seen"
+msgstr "× gesehen"
+
+#: class/MovDB_Recommendations_View.class.php:37
+#, php-format
+msgid "last seen %1$s days ago"
+msgstr "zuletzt gesehen vor %1$s Tagen"
+
+#. Description of the plugin
+msgid ""
+"Adds a movie database to WordPress. You can manage your movie collection and "
+"show everyone, which movies you were watching recently."
+msgstr ""
+"Erweitert WordPress um eine persönliche Filmdatenbank. Du kannst damit deine "
+"Filmsammlung verwalten und jedem zeigen, welche Filme du kürzlich gesehen "
+"hast."
+
+#. URI of the plugin
+msgid "https://www.heimkino-praxis.com/movie-database/"
+msgstr "https://www.heimkino-praxis.com/movie-database/"
+
+#. Author of the plugin
+msgid "Bert Kößler <bert@heimkino-praxis.com>"
+msgstr "Bert Kößler <bert@heimkino-praxis.com>"
+
+#. Author URI of the plugin
+msgid "https://www.heimkino-praxis.com/"
+msgstr "https://www.heimkino-praxis.com/"
